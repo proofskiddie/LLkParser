@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LL Recursive Decent Recognizers">
+    <output-path>$PROJECT_DIR$/out/artifacts/LL_Recursive_Decent_Recognizers</output-path>
+    <root id="archive" name="LL Recursive Decent Recognizers.jar">
+      <element id="module-output" name="LL Recursive Descent Recognizers" />
+    </root>
+  </artifact>
+</component>
